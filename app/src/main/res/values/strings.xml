@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BCSFLASHCARD</string>
+    <string name="title_activity_syllabus">MainActivity</string>
+    <string name="title_home">Priliminary</string>
+    <string name="title_dashboard">Written</string>
+    <string name="title_notifications">Viva</string>
+    <string name="textview">TextView</string>
+    <string name="main_category">Main Category</string>
+    <string name="topic">Topic</string>
+    <string name="feature">Feature</string>
+</resources>

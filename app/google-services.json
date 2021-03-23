@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874377932216",
+    "project_id": "bcsflashcard-6efff",
+    "storage_bucket": "bcsflashcard-6efff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874377932216:android:99191ce58244a46175f34d",
+        "android_client_info": {
+          "package_name": "com.example.bcsflashcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874377932216-ujstqc9nn3t0a9bek2gut1ogdo0d1q92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEBZB9xwWjxJpyoDi-vvpkGeYUumsf8cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874377932216-ujstqc9nn3t0a9bek2gut1ogdo0d1q92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
